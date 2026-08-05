@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
