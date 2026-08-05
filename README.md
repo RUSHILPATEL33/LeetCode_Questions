@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
