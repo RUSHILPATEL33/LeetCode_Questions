@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
