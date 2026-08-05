@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
