@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
