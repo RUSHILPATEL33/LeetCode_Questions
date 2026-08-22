@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1679-max-number-of-k-sum-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/RUSHILPATEL33/LeetCode_Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
